@@ -6,11 +6,16 @@ Developer : Vincent Barbosa Vaz
 
 Teacher : Daniel Courivaud
 
+## App preview
+
+![Interactive map](www/img/app_preview_1.jpg)
+
+![Word cloud](www/img/app_preview_2.jpg)
+
 ## Case study on public transport in France
 
 This project is based on public transport data in France.
 https://opendata.stif.info/explore/?sort=modified
-
 
 ## Data
 
